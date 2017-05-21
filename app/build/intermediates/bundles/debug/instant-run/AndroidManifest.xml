@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jsr268client"
+    android:versionCode="1003"
+    android:versionName="1.0.0.4" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="com.hidglobal.ia.omnikey.service.permission.SMARTCARDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="SS_LunchClub"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.jsr268client.MainPage"
+            android:noHistory="true" />
+        <activity android:name="com.example.jsr268client.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.jsr268client.JSR268Client"
+            android:label="Digital Canteen"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.example.jsr268client.register" />
+        <activity android:name="com.example.jsr268client.Admin" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.example.jsr268client.WithoutLogin" />
+        <activity android:name="com.example.jsr268client.Manager" />
+        <activity android:name="com.example.jsr268client.Accounts" />
+    </application>
+
+</manifest>

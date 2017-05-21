@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">JSR268Client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_jsr268_client">JSR268Client</string>
+    <string name="domain">http://192.168.0.103:80</string>
+
+</resources>

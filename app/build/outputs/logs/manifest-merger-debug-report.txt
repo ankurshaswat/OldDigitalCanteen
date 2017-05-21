@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:5:5-34
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:4:5-31
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/ankurshaswat/.android/build-cache/5422fa6550d4541a2bfc5b7d3eb0fb694c8b5361/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] /home/ankurshaswat/.android/build-cache/1de597fd8f12fd97977340a0889eb077e87acb10/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml
+uses-permission#com.hidglobal.ia.omnikey.service.permission.SMARTCARDIO
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:11:5-95
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:11:22-92
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:13:22-64
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:15:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:16:30-85
+application
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:18:5-49:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/ankurshaswat/.android/build-cache/5422fa6550d4541a2bfc5b7d3eb0fb694c8b5361/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] /home/ankurshaswat/.android/build-cache/1de597fd8f12fd97977340a0889eb077e87acb10/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:20:9-37
+	android:icon
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.example.jsr268client.MainPage
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:22:9-24:40
+	android:noHistory
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:23:13-37
+activity#com.example.jsr268client.Splash
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:25:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.jsr268client.JSR268Client
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:32:9-35:52
+	android:screenOrientation
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:33:13-41
+activity#com.example.jsr268client.register
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:36:9-46
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:36:19-43
+activity#com.example.jsr268client.Admin
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:37:9-43
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:37:19-40
+meta-data#com.google.android.gms.version
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:42:9-44:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:43:13-58
+activity#com.example.jsr268client.WithoutLogin
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:46:9-50
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:46:19-47
+activity#com.example.jsr268client.Manager
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:47:9-45
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:47:19-42
+activity#com.example.jsr268client.Accounts
+ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:48:9-55
+	android:name
+		ADDED from /home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/AndroidManifest.xml:48:19-43

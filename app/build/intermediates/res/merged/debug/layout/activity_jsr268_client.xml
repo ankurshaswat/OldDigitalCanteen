@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+
+tools:context="com.example.jsr268client.JSR268Client"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true" >
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:id="@+id/textView_atr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView_cardStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Welcome to Senior Staff Lunch Club"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="40dp"
+        android:textColor="#23297A"
+        android:textSize="30dp" />
+
+    <EditText
+        android:layout_width="375dp"
+        android:layout_height="45dp"
+        android:inputType="none"
+        android:ems="10"
+        android:id="@+id/e_code"
+        android:layout_gravity="center"
+        android:layout_marginBottom="150dp"
+        android:autoText="false"
+        android:background="#f6f6f6"
+        android:textColor="#23297A" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="To Login, Enter Your Emloyee Code - "
+        android:id="@+id/textView2"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="190dp"
+        android:layout_marginRight="0dp"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="OR"
+        android:id="@+id/textView3"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Insert Your ID Card in Machine"
+        android:id="@+id/textView4"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="IIT DELHI"
+        android:id="@+id/textView5"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="90dp"
+        android:textColor="#ffffff"
+        android:textSize="30dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="LogIn"
+        android:id="@+id/loginwalabutton"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginBottom="60dp"
+        android:layout_marginRight="60dp"
+        android:background="#23297A"
+        android:clickable="true"
+        android:onClick="login"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="New User Without ID Card? Register Yourself Below"
+        android:id="@+id/textView15"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="200dp"
+        android:clickable="true"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Register Me"
+        android:id="@+id/registerwalabutton"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="#23297A"
+        android:layout_marginBottom="110dp"
+        android:onClick="regis"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Admin"
+        android:id="@+id/button3"
+        android:background="@drawable/newbutton"
+        android:layout_gravity="left|center_vertical"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="130dp"
+        android:width="100dp"
+        android:onClick="openadmin" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Proceed Without Login"
+        android:id="@+id/button6"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="20dp"
+        android:background="#23297A"
+        android:textColor="#ffffff"
+        android:width="400dp"
+        android:onClick="without"
+        android:visibility="invisible" />
+
+</FrameLayout>
+</RelativeLayout>
+

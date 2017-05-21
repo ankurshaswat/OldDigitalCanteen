@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="280dp"
+        android:layout_height="65dp"
+        android:id="@+id/m1"
+        android:height="70dp"
+        android:background="@xml/style5"
+        android:width="200dp"
+        android:textSize="30dp"
+        android:textColor="#154a72"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/add1" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="68dp"
+        android:layout_height="68dp"
+        android:id="@+id/add1"
+        android:width="60dp"
+        android:background="@drawable/plus3"
+        android:layout_marginLeft="0dp"
+         />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button8"
+        android:layout_alignTop="@+id/m1"
+        android:layout_toRightOf="@+id/m1"
+        android:layout_alignBottom="@+id/m1" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="55dp"
+        android:layout_height="50dp"
+        android:id="@+id/sub2"
+        android:background="@drawable/mi"
+
+        android:layout_toRightOf="@+id/button8"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="7dp" />
+
+</RelativeLayout>

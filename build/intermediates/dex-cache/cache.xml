@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0173be3aa79bf50a17e96f075de6b6c7915d3b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ede6458af7df0450f8b0c66e7e59a552db5e85">
+        <dex dex="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b30a4a9759b7075d2cc4d1feea743fcb89fa4420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_227b823a95814dd27aa3b2d706eb01b35dbbdf3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/libs/JSR268Library.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab46df47c4c9c1b602f4109ab3f76a8b50b0d249">
+        <dex dex="/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/2/JSR268Library_bdda33c1a16c2ccaea1d1d095b4a35f45e741a20/classes.dex" />
+    </item>
+
+</items>

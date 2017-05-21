@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_full_open_on_phone.png",
+        "source": "/home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/res/drawable-xhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    }
+]

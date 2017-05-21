@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="testArray">
+        <item>Rs.100</item>
+        <item>Rs. 200</item>
+        <item>Rs. 500</item>
+        <item>Rs. 1000</item>
+
+    </array>
+</resources>

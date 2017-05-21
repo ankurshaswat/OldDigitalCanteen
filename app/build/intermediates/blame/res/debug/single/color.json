@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/res/color/common_signin_btn_text_dark.xml"
+    }
+]

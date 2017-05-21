@@ -1,0 +1,7 @@
+#Sun May 21 11:17:25 IST 2017
+base.0=/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b30a4a9759b7075d2cc4d1feea743fcb89fa4420
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0173be3aa79bf50a17e96f075de6b6c7915d3b4/classes.dex
+base.1=/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0173be3aa79bf50a17e96f075de6b6c7915d3b4
+file.0=/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b30a4a9759b7075d2cc4d1feea743fcb89fa4420/classes.dex

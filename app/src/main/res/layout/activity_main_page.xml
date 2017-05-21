@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingBottom="@dimen/activity_vertical_margin"
+android:paddingLeft="@dimen/activity_horizontal_margin"
+android:paddingRight="@dimen/activity_horizontal_margin"
+android:paddingTop="@dimen/activity_vertical_margin"
+tools:context="com.example.jsr268client.MainPage"
+    style="@style/AppTheme"
+    android:background="@drawable/bg">
+
+
+    <Button
+    android:layout_width="120dp"
+    android:layout_height="wrap_content"
+    android:text="CHANGE"
+    android:id="@+id/dateselector"
+        android:background="@drawable/newbutton"
+    android:width="150dp"
+    android:height="45dp"
+    android:textSize="22dp"
+    android:textColor="#154a72"
+        android:layout_alignRight="@+id/add_amount"
+        android:layout_marginTop="150dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Welcome   "
+        android:id="@+id/edit"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:textSize="30dp"
+        android:textColor="#23297A" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="EXIT"
+        android:id="@+id/exit"
+        android:background="#ff0000"
+        android:width="300dp"
+        android:height="60dp"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+
+        android:onClick="logout"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Next Visiting Date -  "
+        android:id="@+id/textView9"
+        android:textSize="30dp"
+        android:textColor="#23297A"
+        android:textStyle="normal"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/dateselector" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Current Balance : "
+        android:id="@+id/textView10"
+        android:layout_below="@+id/edit"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="30dp"
+        android:textSize="30dp"
+        android:textColor="#23297A" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/co"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/edit"
+        android:textSize="30dp"
+        android:textColor="#23297A" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/account_balance"
+        android:layout_alignBottom="@+id/textView10"
+        android:layout_toRightOf="@+id/textView10"
+        android:textSize="30dp"
+        android:textColor="#23297A" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/visiting_date"
+        android:layout_alignBottom="@+id/textView9"
+        android:layout_toRightOf="@+id/textView9"
+        android:textSize="30dp"
+        android:layout_marginBottom="0dp"
+        android:textColor="#23297A" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:id="@+id/submit"
+        android:background="@android:color/holo_green_dark"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:onClick="submit"
+        android:nestedScrollingEnabled="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/dateselector" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/money"
+        android:background="@drawable/round_button"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/dateselector" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="ADD"
+        android:id="@+id/add_amount"
+        android:background="@drawable/newbutton"
+        android:width="150dp"
+        android:height="45dp"
+        android:textSize="22dp"
+        android:textColor="#154a72"
+        android:layout_alignTop="@+id/textView10"
+        android:layout_alignParentRight="true"
+        android:onClick="shownewDialogOnButtonClick" />
+
+    <ListView android:id="@+id/listView2"
+        android:layout_width="450dp"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="80dp" />
+
+</RelativeLayout>

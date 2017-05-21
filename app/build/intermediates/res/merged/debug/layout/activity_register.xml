@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingBottom="20dp"
+android:paddingRight="20dp"
+android:paddingLeft="20dp"
+android:paddingTop="20dp"
+tools:context="com.example.jsr268client.register"
+android:background="@drawable/bg"
+    android:onClick="cancel">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="Welcome to Digital Canteen"
+    android:id="@+id/textView13"
+    android:layout_gravity="center_horizontal|top"
+    android:layout_marginTop="28dp"
+    android:textColor="#23297A"
+    android:textSize="42dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Enter Your Name"
+    android:id="@+id/textView17"
+    android:layout_gravity="center_horizontal|top"
+    android:layout_marginTop="60dp"
+    android:layout_marginRight="120dp"
+    android:textColor="#ffffff"
+    android:layout_marginEnd="2dp"
+    android:textSize="30dp"
+    android:layout_below="@+id/textView13" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:inputType="textPersonName"
+    android:ems="10"
+    android:id="@+id/emp_name"
+    android:layout_below="@+id/textView17"
+    android:layout_alignStart="@+id/textView17"
+    android:layout_marginTop="30dp"
+    android:background="#ffffff" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Employee Code"
+    android:id="@+id/textView18"
+    android:layout_gravity="center_horizontal|top"
+    android:layout_marginTop="30dp"
+    android:layout_marginRight="120dp"
+    android:textColor="#ffffff"
+    android:textSize="30dp"
+    android:layout_below="@+id/emp_name"
+    android:layout_alignStart="@+id/emp_name" />
+
+<EditText
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:inputType="textPersonName"
+    android:ems="10"
+    android:id="@+id/emp_code"
+    android:layout_marginTop="30dp"
+    android:background="#ffffff"
+    android:layout_below="@+id/textView18"
+    android:layout_alignStart="@+id/textView18" />
+
+<Button
+    android:layout_width="300dp"
+    android:layout_height="64dp"
+    android:text="Register Me"
+    android:id="@+id/button2"
+    android:layout_gravity="center_horizontal|bottom"
+    android:background="#23297A"
+    android:layout_below="@+id/emp_code"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="150dp"
+    android:textColor="#ffffff"
+    android:textSize="27dp"
+    android:onClick="sub" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="64dp"
+        android:text="Cancel"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="#23297A"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        android:onClick="cancel"
+        android:layout_below="@+id/button2"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_marginTop="20dp" />
+
+</RelativeLayout>
+
