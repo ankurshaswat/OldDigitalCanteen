@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/common_ic_googleplayservices.png",
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/common_ic_googleplayservices.png",
         "source": "/home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/res/drawable-hdpi/common_ic_googleplayservices.png"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/splash.png",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/common_full_open_on_phone.png",
         "source": "/home/ankurshaswat/.android/build-cache/1d60b5d91e56c13299343dad336738607dbe25b4/output/res/drawable-hdpi/common_full_open_on_phone.png"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/splash.png",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/splash.png"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/bg.png",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/bg.png"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/ic_action_search.png"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/drawable-hdpi/bg.png",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/drawable-hdpi/bg.png"
     }
 ]

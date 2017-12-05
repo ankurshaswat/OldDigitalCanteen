@@ -20,7 +20,6 @@ import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
-import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
@@ -218,7 +217,7 @@ public class Admin extends Activity {
         while(ne.moveToNext())
         {
             String buffer=ne.getString(1)+ne.getString(2)+Integer.toString(ne.getInt(3))+Integer.toString(ne.getInt(4))+Integer.toString(ne.getInt(5))+ne.getString(6);
-            logs.addRecordToLog(buffer);
+            Logger.addRecordToLog(buffer);
         }
 
 //

@@ -11,16 +11,6 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.android.volley.Request;
-import com.android.volley.RequestQueue;
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
-import com.android.volley.toolbox.StringRequest;
-import com.android.volley.toolbox.Volley;
-
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import java.util.Calendar;
 
 public class register extends Activity {
@@ -39,9 +29,10 @@ public class register extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+
         enter_name=(EditText)findViewById(R.id.emp_name);
         enter_code=(EditText)findViewById(R.id.emp_code);
-        st_atr =getIntent().getExtras().getString("atr").toString();
+        st_atr = getIntent().getExtras().getString("atr");
         pDialog = new ProgressDialog(this);
         mydatabase=new DatabaseHandler(this);
         final Calendar cal = Calendar.getInstance();

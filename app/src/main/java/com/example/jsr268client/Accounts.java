@@ -5,7 +5,6 @@ import android.app.DatePickerDialog;
 import android.app.Dialog;
 import android.database.Cursor;
 import android.os.Bundle;
-import android.text.format.DateUtils;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
@@ -13,7 +12,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.lang.reflect.Array;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -125,7 +123,7 @@ public class Accounts extends Activity {
 
     public void gen(View view)
     {
-        Map<Integer, sale> dict = new HashMap<Integer, sale>();
+        Map<Integer, sale> dict = new HashMap<>();
         Integer x=0;
         Cursor a=acc.getAllData2(stdate,enddate);
         while(a.moveToNext())

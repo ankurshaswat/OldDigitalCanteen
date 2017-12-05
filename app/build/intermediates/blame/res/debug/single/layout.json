@@ -1,90 +1,46 @@
 [
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_without_login.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_without_login.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_manager.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_manager.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_admin.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_admin.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/sal.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/sal.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_main_page.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_main_page.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sal.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\sal.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/men.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/men.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_admin.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_admin.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/sal.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/sal.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manager.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_manager.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/test.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/test.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_without_login.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_without_login.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_jsr268_client.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_jsr268_client.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/men.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/men.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_without_login.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_without_login.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\men.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\men.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_register.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_splash.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_accounts.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_accounts.xml"
     },
     {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_page.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_main_page.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_main_page.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_main_page.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_accounts.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_accounts.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/test.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/test.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_register.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_jsr268_client.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_jsr268_client.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jsr268_client.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_jsr268_client.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\test.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_admin.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_manager.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_manager.xml"
-    },
-    {
-        "merged": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accounts.xml",
-        "source": "/home/ankurshaswat/Desktop/divyansh_rana-digital-canteen-c1785cc5a9ce/C:\\Users\\abhijeet anand\\Desktop\\new\\omnikey_android_20160516_release\\JSR268Client\\app\\src\\main\\res\\layout\\activity_accounts.xml"
+        "merged": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/ankurshaswat/Desktop/Takeout Dump/divyansh_rana-digital-canteen-c1785cc5a9ce/app/src/main/res/layout/activity_splash.xml"
     }
 ]
